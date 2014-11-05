@@ -145,7 +145,7 @@ def loadMoveFile(filename, x, y):
 
 
 #general options
-folder = "/Users/clementvalla/projects/1301_every_surface/work/scripts/19/3215/7143/78/"
+folder = "path/to/folder/here"
 spacing = 256
 
 #how many meshes to import?
